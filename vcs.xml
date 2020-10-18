@@ -46,6 +46,10 @@
           <option name="url" value="https://github.com/abodrak/userprofileChallenge.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/slackvishal/flutter_traveler_profile_app.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/Downloads" />
